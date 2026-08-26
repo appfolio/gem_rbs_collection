@@ -1,0 +1,9 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: gem_rbs_collection
+  description: "Fork of ruby/gem_rbs_collection, held in the AppFolio org for stubbing missing RBS type definitions"
+spec:
+  type: library
+  lifecycle: stable
+  owner: CODEOWNERS
